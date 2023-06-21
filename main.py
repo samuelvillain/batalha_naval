@@ -23,6 +23,7 @@ def matriz_ataque():
 
     return jogo_ataque
 
+
 while True:
     while True:
         while True:
